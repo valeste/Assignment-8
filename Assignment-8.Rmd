@@ -1,0 +1,58 @@
+---
+title: "Some things I learned this quarter."
+subtitle: "FISH 549"
+author: "Celeste Valdivia<br>cvaldi@uw.edu"
+date: '2023-03-09'
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About Me
+### Personal
+- Born in San Diego, California
+- Favorite food: tacos al pastor
+- Favorite animal: cat
+
+## About Me (continued)
+### Academic
+- Undergraduate institution: University of California, Davis
+- Undergraduate major: Animal Biology
+
+# Data Science
+
+## Course topics
+### 3 things I enjoyed learning about
+1. How to make R Markdown files and their different applications
+2. Basics of GitHub
+3. Minimum reproducibility examples so as to effectively ask for help
+
+## Course topics
+### 3 things I'd like to learn more about
+1. R Markdown. While I was introduce to the use of such files I would like more in depth tutorials for different features
+2. Practicing more data visualization
+3. More in depth use of R packages
+
+## {data-background=img/tunicate.png data-background-size=cover}
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="text-align: center; color: white">Colony of _Botryllus schlosseri_, the model organism for my research at SAFS.</p>
